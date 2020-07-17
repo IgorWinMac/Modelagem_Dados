@@ -1,2 +1,2 @@
 # Modelagem_Dados
- Fontes completos da disciplina de modegam dados 
+ Slides completos da disciplina de modelagem de dados 
